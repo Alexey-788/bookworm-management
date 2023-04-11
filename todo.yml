@@ -1,0 +1,6 @@
+reading-recommendation:
+  domain:
+    - created based on the category, referring to external service for a book title.
+    - stores a book title.
+  usecase:
+    - just transmits information through itself.
